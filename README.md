@@ -23,28 +23,28 @@
 
   <div style="display: flex; flex-direction: column; align-items: center;">
     <h3>🔭 Current Projects</h3>
-    <p>- **Aiml-Based Insider Threat Detection**</p>
+    <p>- <strong>Aiml-Based Insider Threat Detection</strong></p>
 
     <h3>🌱 Learning</h3>
-    <p>- **Automation using Python**</p>
+    <p>- <strong>Automation using Python</strong></p>
 
     <h3>👯 Collaboration Interests</h3>
-    <p>- **Security-related and Development Projects**</p>
+    <p>- <strong>Security-related and Development Projects</strong></p>
 
     <h3>🤝 Seeking Help With</h3>
-    <p>- **Development Projects**</p>
+    <p>- <strong>Development Projects</strong></p>
 
     <h3>👨‍💻 Projects</h3>
-    <p>- All of my projects are available at [GitHub Profile](https://github.com/JeevansmGwd)</p>
+    <p>- All of my projects are available at <a href="https://github.com/JeevansmGwd" target="_blank">GitHub Profile</a></p>
 
     <h3>💬 Ask Me About</h3>
-    <p>- **Security, Development**</p>
+    <p>- <strong>Security, Development</strong></p>
 
     <h3>📫 Contact Me</h3>
-    <p>- **Email:** [jeevansm99@gmail.com](mailto:jeevansm99@gmail.com)</p>
+    <p>- <strong>Email:</strong> <a href="mailto:jeevansm99@gmail.com">jeevansm99@gmail.com</a></p>
 
     <h3>📄 LinkedIn</h3>
-    <p>- [LinkedIn Profile](https://www.linkedin.com/in/jeevan-s-m-322321242)</p>
+    <p>- <a href="https://www.linkedin.com/in/jeevan-s-m-322321242" target="_blank">LinkedIn Profile</a></p>
   </div>
 
   <hr style="width: 100%;">

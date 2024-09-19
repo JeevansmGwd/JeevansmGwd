@@ -1,19 +1,3 @@
-<div style="display: flex; justify-content: center;">
-  <a href="https://twitter.com/jeevansm_gowda" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="https://github.com/JeevansmGwd" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" />
-  </a>
-  <!-- Add more social media icons as needed -->
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <!-- Add more language/tool icons as needed -->
-</div>
-
 <div style="display: flex; flex-direction: column; align-items: center;">
   <h3>👋 Hi, I'm Jeevan S M</h3>
 
@@ -67,12 +51,26 @@
 
   <h3>🤝 Connect with me:</h3>
   <div style="display: flex; justify-content: center;">
-    <!-- Social media icons -->
+    <a href="https://twitter.com/jeevansm_gowda" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://github.com/JeevansmGwd" target="_blank">
+      <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/jeevan-s-m-322321242" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;"/>
+    </a>
+    <!-- Add more social media icons as needed -->
   </div>
 
   <h3>🛠️ Languages and Tools:</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <!-- Language and tool icons -->
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 0 10px;"/>
+    <!-- Add more language/tool icons as needed -->
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center;">

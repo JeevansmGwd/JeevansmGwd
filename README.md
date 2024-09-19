@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://aigeeked.com/wp-content/uploads/2022/12/ai-image-generator.jpg" alt="Banner" style="width: 30%; height: auto; border-radius: 50%; border: 2px solid #ccc;"/>
-</h1>
+
 
 <h3 align="center">👋 Hi, I'm Jeevan S M</h3>
 

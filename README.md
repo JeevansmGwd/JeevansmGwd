@@ -1,3 +1,19 @@
+<div style="display: flex; justify-content: center;">
+  <a href="https://twitter.com/jeevansm_gowda" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://github.com/JeevansmGwd" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" />
+  </a>
+  <!-- Add more social media icons as needed -->
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <!-- Add more language/tool icons as needed -->
+</div>
+
 <div style="display: flex; flex-direction: column; align-items: center;">
   <h3>👋 Hi, I'm Jeevan S M</h3>
 

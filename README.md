@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/jeevansmgwd/">
-  <img src="https://github.com/JeevansmGwd/JeevansmGwd/blob/main/github%20banner.png" alt="MasterHead" style="width: 800px; height: 200px;" />
+  <img src="https://github.com/JeevansmGwd/JeevansmGwd/blob/main/github%20banner.png" alt="MasterHead" style="width: 800px; height: 500px;" />
 </a>
 <h3 align="center">Motivated developer who focuses on testing and validating software applications. I’m passionate about making development processes more efficient and delivering high-quality results. I’m eager to bring my technical skills and fresh ideas to a dynamic team while continuing to improve my software development expertise.</h3>
 

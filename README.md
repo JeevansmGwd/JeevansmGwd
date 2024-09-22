@@ -1,6 +1,6 @@
 <h1 align="center">I'm Jeevan S M</h1>
 <h3 align="center">Motivated developer who focuses on testing and validating software applications. I’m passionate about making development processes more efficient and delivering high-quality results. I’m eager to bring my technical skills and fresh ideas to a dynamic team while continuing to improve my software development expertise.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://ayodele-olufemi.github.io/MyBioSite/images/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevansmgwd&label=Profile%20views&color=0e75b6&style=flat" alt="jeevansmgwd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevansmgwd" alt="jeevansmgwd" /></a> </p>

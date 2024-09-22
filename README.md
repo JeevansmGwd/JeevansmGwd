@@ -4,11 +4,8 @@
   </a>
 </p>
 <p align="center">
-  <h3>Motivated developer with a focus on testing, validating, and securing software
-applications. I’m passionate about making development processes more efficient,
-delivering high-quality and secure results. Eager to bring my technical skills, security
-expertise, and fresh ideas to a dynamic team while continuing to improve my software
-development and cybersecurity expertise.
+  <h3>Motivated developer with a focus on testing, validating, and securing software applications. I’m passionate about making development processes more efficient, delivering high-quality and secure results. 
+    Eager to bring skills, security expertise, and fresh ideas to a dynamic team while continuing to improve my software development and cybersecurity expertise.
 </h3>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevansmgwd&label=Profile%20views&color=0e75b6&style=flat" alt="jeevansmgwd" /> </p>

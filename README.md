@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevansmgwd" alt="jeevansmgwd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jeevansm_gowda" target="blank"><img src="https://img.shields.io/twitter/follow/jeevansm_gowda?logo=twitter&style=for-the-badge" alt="jeevansm_gowda" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://ayodele-olufemi.github.io/MyBioSite/images/coding.gif">
+
 - 🔭 I’m currently working on **Aiml-Based Insider Treat Detection**
 
 - 🌱 I’m currently learning **Automation using Python**
@@ -22,7 +22,7 @@
 - 📫 How to reach me **jeevansm99@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/jeevansmgwd](www.linkedin.com/in/jeevansmgwd)
-
+<img align="right" alt="Coding" width="400" src="https://ayodele-olufemi.github.io/MyBioSite/images/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jeevansm_gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeevansm_gowda" height="30" width="40" /></a>

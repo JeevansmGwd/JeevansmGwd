@@ -1,8 +1,9 @@
-<div style="text-align: center;">
+<p align="center">
   <a href="https://www.linkedin.com/in/jeevansmgwd/">
     <img src="https://github.com/JeevansmGwd/JeevansmGwd/blob/main/github%20banner.png" alt="MasterHead" style="width: 50%; height: auto;" />
   </a>
-</div>
+</p>
+
 <h3 align="center">Motivated developer who focuses on testing and validating software applications. I’m passionate about making development processes more efficient and delivering high-quality results. I’m eager to bring my technical skills and fresh ideas to a dynamic team while continuing to improve my software development expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevansmgwd&label=Profile%20views&color=0e75b6&style=flat" alt="jeevansmgwd" /> </p>
